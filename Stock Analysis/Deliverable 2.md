@@ -18,7 +18,7 @@ For your written analysis, be sure to use complete and coherent sentences. Your 
 
    When comparing these two years with one another, the differences are quite striking to one another as they are polar opposites in terms of the growth that they showcase. 
 
-   (Show 2017 Performance Screenshot)
+  https://github.com/SuleimanB/stock-analysis/blob/2d3e5f3a7cec45fc4aa81baec3b5a0ac4b34a8ef/Stock%20Analysis/Stock%20Performance%20(2018).png
 
    As we can see here, the performance across the board for all of these indexed stocks saw quite a bit of growth all around with TERP being the only entry that showed a negative return. As a result of this, especially when compared to what we will see in 2018, these results are much more appeasable if you are looking for positive returns that these stock options will give you in terms of the volume they accrued and the sectors of business that these stock options were aligned with. This should partially help get a good sense on whether investing in these options in the future will be a sound investment for his Steve's parents. 
 
