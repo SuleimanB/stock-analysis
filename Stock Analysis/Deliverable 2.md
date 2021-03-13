@@ -10,7 +10,7 @@ For your written analysis, be sure to use complete and coherent sentences. Your 
 
    The execution times during my initial testing hit a couple of snags as it took literal minutes for a code that should run in a few seconds. Once I closed any unnecessary files and windows and started running tests, it is easy to see first hand the improvement going from the original script to the refactored one brought to the table.  For example when working on my refactored code, Excel would visibly be seen looping to the corresponding workbook before popping results and sometimes even end up freezing my computer until the process was completed. With the refactored code, that is not a worry any longer, I will showcase the two below with the first image below being the original script and the second image after the refactored script. 
 
-   (Screenshot of Original 2018 PopUp)
+   https://github.com/SuleimanB/stock-analysis/blob/50acdd43f56634a16f95d2603cbf18e71a712b07/Stock%20Analysis/Stock%20Performance%20(2018).png
 
    It is night and day a faster process that brings the results for any workbooks that have similar formatting a data for Steve to use in the future as needed and will greatly aid in generating results in a very fast and user-friendly way. It is also nice to mention that the formatting to quickly glance at which ticker index's in a glance are seeing positive or negative returns within those mere milliseconds compared to the less efficient original script. 
 
