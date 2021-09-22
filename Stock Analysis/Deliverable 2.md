@@ -1,10 +1,8 @@
-For your written analysis, be sure to use complete and coherent sentences. Your written analysis should contain three sections, which cover the following:
-
-1. Overview of Project: Explain the purpose of this analysis.
+Overview of Project: Explain the purpose of this analysis.
 
    The purpose of this analysis is to showcase the improvements made from the original DQ Analysis and stock analysis macro into the now refactored script that is capable of running through all the data for the stocks that are given in the worksheet. One of the key goals by doing this should be an understanding of what the improvements were, how the refactored script improves on the original script. Overall we will also be able to compare performances between both the 2017 and 2018 returns to one another so Steve can have a better idea of how to invest his parents money by assessing the options based on there Volume and Returns.
 
-2. Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
+Results: Using images and examples of your code, compare the stock performance between 2017 and 2018, as well as the execution times of the original script and the refactored script.
 
    Execution Times (Original Script vs Refactored Script)
 
@@ -26,7 +24,7 @@ For your written analysis, be sure to use complete and coherent sentences. Your 
 
    As mentioned when compared to 2017, 2018's returns did not yield many positive returns which is surprising to see when looking at how successful 2017's returns ended up being. One key takeaway would be that CSIQ was the only stock option that saw returns in both 2017 and 2018 that saw positive returns which can help Steve get a better sense of which company would keep his parents money safe in the short term and the long term. Of course it would be advisable for Steve to go beyond the findings that were given in these two years and do further research to see if any trends can be spotted or good opportunities depending on his parents goals but this is a key piece of information that provides good context for his decision. 
 
-   Summary: In a summary statement, address the following questions.
+   Summary:
 
    1. What are the advantages or disadvantages of refactoring code?
 
